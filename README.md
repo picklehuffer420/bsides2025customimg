@@ -1,9 +1,11 @@
 ## So you want to change your badge image?
 It's really simple, trust me.
 
-You're gonna want to need [an image converter](https://fconvert.com/image/), [thonny](https://thonny.org), and any image you want, preferrably a square one so it looks better, but if you're fine with it being stretched out/squished, that's fine.
+<mark>As of writing I'm having difficulties but I also went in and modified more things... This is exactly how I did it during the first go-around of trying to set up the images, so I can say with 99.99% confidence that this works as intended.</mark>
 
-First, hook up your badge to your computer and open Thonny. You're gonna wanna choose **MicroPython (ESP23)** out of the following options.
+You're gonna want to need [an image converter](https://fconvert.com/image/), [thonny](https://thonny.org), and any image you want, preferrably a square one so it looks better, but if you're fine with it being stretched out/squished, that's fine as well.
+
+First, hook up your badge to your computer and open Thonny. You're gonna wanna choose **MicroPython (ESP23)** out of the following options in the bottom right corner of your window.
 
 ![image](https://github.com/user-attachments/assets/4a9ab884-98ac-4b73-a15b-c0c604919f4c)
 
@@ -15,7 +17,7 @@ After doing this, you need to open ``MicroPython device/img`` and delete ``bside
 
 ![image](https://github.com/user-attachments/assets/3d171634-1fe9-4162-a1d5-f70f8fe68641)
 
-This image is from earlier today, it's a different character from when I first got the image to work, as of writing I'm having difficulties but I also went in and modified more things...
+This image is from earlier today, it's a different character from when I first got the image to work.
 
 Ask me if anything goes wrong and I'll go through the process again and update it, but this is the simplest way I can word it in my opinion while still being a little detailed. Again thank you Steve, Stephen & Luke for the help!!!!
 
